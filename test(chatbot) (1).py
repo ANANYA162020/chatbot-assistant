@@ -8,7 +8,7 @@ import yfinance as yf
 import ssl
 import certifi
 import time
-import os # to remove created audio files
+import os #  
 
 
 class person:
